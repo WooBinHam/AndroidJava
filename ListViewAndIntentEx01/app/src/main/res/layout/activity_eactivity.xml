@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".e_activity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="#F6BB43">
+
+        <Button
+            android:id="@+id/BtnReturn"
+            android:layout_width="64dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:text="이전" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:text="좌석 예약하기"
+            android:textColor="#ffffff"
+            android:textSize="20dp" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/BtnInfo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="이용자 수 입력하기" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="인원 수: " />
+        <TextView
+            android:id="@+id/tvNum"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="" />
+
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp">
+
+    </LinearLayout>
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TableRow>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnNum0"
+                android:text="1"
+                android:backgroundTint="@color/button_background_color"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnNum1"
+                android:text="2"
+                android:backgroundTint="@color/button_background_color"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnNum2"
+                android:text="3"
+                android:backgroundTint="@color/button_background_color"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnNum3"
+                android:text="4"
+                android:backgroundTint="@color/button_background_color"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+        </TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TableRow>
+
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnNum4"
+                android:text="5"
+                android:backgroundTint="@color/button_background_color"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnNum5"
+                android:text="6"
+                android:backgroundTint="@color/button_background_color"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnNum6"
+                android:text="7"
+                android:backgroundTint="@color/button_background_color"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="#9A9A9A"
+                android:text="입구"
+                android:textSize="20dp"/>
+        </TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TableRow>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="#9A9A9A"
+                android:text="남자 화장실"
+                android:textSize="16dp"/>
+
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnNum7"
+                android:text="8"
+                android:backgroundTint="@color/button_background_color"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnNum8"
+                android:text="9"
+                android:backgroundTint="@color/button_background_color"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="#9A9A9A"
+                android:text="음료 버리는 곳"
+                android:textSize="18dp" />
+
+
+        </TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TableRow>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnNum9"
+                android:text="10"
+                android:backgroundTint="@color/button_background_color"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnNum10"
+                android:text="11"
+                android:backgroundTint="@color/button_background_color"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnNum11"
+                android:text="12"
+                android:backgroundTint="@color/button_background_color"/>
+        </TableRow>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <TableRow>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="#9A9A9A"
+                android:text="여자 화장실"
+                android:textSize="16dp"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnNum12"
+                android:text="13"
+                android:backgroundTint="@color/button_background_color"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnNum13"
+                android:text="14"
+                android:backgroundTint="@color/button_background_color"/>
+            <Button
+                android:layout_weight="1"
+                android:enabled="false"
+                android:background="@android:color/transparent"/>
+
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/BtnNum14"
+                android:text="15"
+                android:backgroundTint="@color/button_background_color"/>
+        </TableRow>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="창가"
+            android:textSize="20dp"
+            android:background="#9A9A9A"/>
+    </TableLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="선택한 자리: " />
+        <TextView
+            android:id="@+id/Seat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:text="" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/BtnNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="다음 단계로"/>
+
+</LinearLayout>

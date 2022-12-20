@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/user/ListViewAndIntentEx01/app/src/main/res/layout/activity_aactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/ListViewAndIntentEx01/app/src/main/res/layout/activity_bactivity.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/user/ListViewAndIntentEx01/app/src/main/res/layout/activity_cactivity.xml" value="0.1" />
+        <entry key="..\:/Users/user/ListViewAndIntentEx01/app/src/main/res/layout/activity_dactivity.xml" value="0.1" />
+        <entry key="..\:/Users/user/ListViewAndIntentEx01/app/src/main/res/layout/activity_eactivity.xml" value="0.1" />
+        <entry key="..\:/Users/user/ListViewAndIntentEx01/app/src/main/res/layout/activity_main.xml" value="0.18711018711018712" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.332" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/drawable/americano.xml" value="0.332" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/drawable/hot_americano.xml" value="0.331" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/drawable/hotamericano.xml" value="0.332" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/drawable/hotcafelatte.xml" value="0.332" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/drawable/hotcafemoca.xml" value="0.331" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/drawable/hotmintmoca.xml" value="0.332" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/drawable/hotvanilalatte.xml" value="0.331" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/drawable/ic_launcher_background.xml" value="0.4125" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/drawable/ice_americano.xml" value="0.332" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/drawable/iceamericano.xml" value="0.331" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/drawable/icecafelatte.xml" value="0.331" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/drawable/icecafemoca.xml" value="0.331" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/drawable/icecaramelmacchiato.xml" value="0.332" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/drawable/icemintmoca.xml" value="0.331" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/drawable/icevanilalatte.xml" value="0.331" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_aactivity.xml" value="0.44947916666666665" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_adialog.xml" value="0.44655797101449274" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_amenu.xml" value="0.375" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_amenudialog.xml" value="0.44655797101449274" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_bactivity.xml" value="0.335" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_bdialog.xml" value="0.44947916666666665" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_bdialog2.xml" value="0.3296875" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_bdialog3.xml" value="0.3296875" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_bfinish.xml" value="0.3296875" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_bmenu.xml" value="0.335" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_bpay.xml" value="0.3296875" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_cactivity.xml" value="0.375" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_cdialog.xml" value="0.3296875" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_cdialog2.xml" value="0.42028985507246375" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_cdialog3.xml" value="0.44655797101449274" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_cfinish.xml" value="0.44655797101449274" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_cmenu.xml" value="0.335" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_cpay.xml" value="0.42028985507246375" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_dactivity.xml" value="0.44947916666666665" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_ddialog.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_dmenu_dialog.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_dpayment.xml" value="0.24322916666666666" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_eactivity.xml" value="0.44947916666666665" />
+        <entry key="..\:/Users/wbham/AndroidStudioProjects/ListViewAndIntentEx01/app/src/main/res/layout/activity_main.xml" value="0.44947916666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
